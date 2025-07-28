@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 
-  <!-- Otros (Thymeleaf y XAMPP no tienen íconos oficiales en Devicon, pero usamos imágenes externas) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" width="40" height="40" alt="Thymeleaf"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" width="40" height="40" alt="XAMPP"/>
+  <!-- Otros: Thymeleaf y XAMPP -->
+  <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" width="40" height="40" alt="Thymeleaf"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219812693-7b4b0975-6e3f-47f3-a45a-4b8b86b5e6d2.png" width="40" height="40" alt="XAMPP"/>
 </p>
