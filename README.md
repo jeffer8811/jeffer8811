@@ -1,7 +1,6 @@
 # ¡Hola mundo! 👋
 
 ### Tecnologías que uso:
-
 <p align="left">
   <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -15,7 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 
-  <!-- Íconos personalizados subidos a GitHub (que sí funcionan en perfiles) -->
-  <img src="https://raw.githubusercontent.com/jeffer8811/assets/main/thymeleaf.png" width="40" height="40" alt="Thymeleaf"/>
-  <img src="https://raw.githubusercontent.com/jeffer8811/assets/main/xampp.png" width="40" height="40" alt="XAMPP"/>
+  <!-- Otros: Thymeleaf y XAMPP -->
+  <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" width="40" height="40" alt="Thymeleaf"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219812693-7b4b0975-6e3f-47f3-a45a-4b8b86b5e6d2.png" width="40" height="40" alt="XAMPP"/>
 </p>
+
