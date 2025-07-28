@@ -12,7 +12,11 @@
   <!-- Frameworks y herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <!-- Otros: Thymeleaf y XAMPP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  
+  <!-- Otros: Thymeleaf y Postman -->
   <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" width="40" height="40" alt="Thymeleaf"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" alt="Postman"/>
 </p>
+
 
