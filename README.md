@@ -12,10 +12,7 @@
   <!-- Frameworks y herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-
   <!-- Otros: Thymeleaf y XAMPP -->
   <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" width="40" height="40" alt="Thymeleaf"/>
-  <img src="[https://user-images.githubusercontent.com/74038190/219812693-7b4b0975-6e3f-47f3-a45a-4b8b86b5e6d2.png](https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo-thumbnail.png)" width="40" height="40" alt="XAMPP"/>
 </p>
 
